@@ -1,5 +1,3 @@
-package Modulo1;
-
 public class BubbleSort {
 	/* BUBBLE SORT - BOLHA
 
